@@ -1,0 +1,8 @@
+__pycache__/
+.work/
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
+*.part
+.env

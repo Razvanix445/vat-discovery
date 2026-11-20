@@ -1,0 +1,117 @@
+host,block,vrn,evidence,verified_by,hmrc_valid,hmrc_name,page_crns,page_witness,crn,ch_name,tier,name_grade,postcode_match,reason
+"uk,co,ekotec",4077,817824609,gbprefix,web-form,True,EKOTEC LIMITED,,none,04767608,EKOTEC LIMITED,B,EXACT,True,HMRC name = a unique register name
+"uk,co,ela8",4077,904158931,vatword,web-form,True,ELA8 LIMITED,06060813,agree,06060813,ELA8 LIMITED,A,EXACT,False,page shows VRN+CRN and HMRC name = register name
+"uk,co,lusona",7810,125474027,gbprefix,web-form,True,LUSONA CONSULTANCY (GROUP) LIMITED,SC419051,agree,SC419051,LUSONA CONSULTANCY (GROUP) LIMITED,A,EXACT,True,page shows VRN+CRN and HMRC name = register name
+"uk,co,lussocampers",7810,420619718,vatword,web-form,True,LUSSO CAMPERS LIMITED,14099533,agree,14099533,LUSSO CAMPERS LIMITED,A,EXACT,True,page shows VRN+CRN and HMRC name = register name
+"uk,co,lusthottubs",7810,473877048,vatword,,,,15349526,,15349526,LUST INTERIORS LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,asadofirekitchen",872,466399734,vatword,,,,15596777,,15596777,ASADO FIRE KITCHEN LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,asalandscapearchitects",872,630863934,vatword,,,,07283585,,07283585,ASA LANDSCAPE ARCHITECTS LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,astylingstory",934,393937347,vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,asylumchapel",934,186989914,gbprefix+vatword,,,,08838902,,08838902,THE MAVERICK ARTISTS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,an-ex",642,542636642,gbprefix+vatword,,,,02308677,,02308677,AN-EX ANALYTICAL SERVICES LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,an0",642,212125174,gbprefix+vatword,,,,09550571,,09550571,AN0 TECHNOLOGY LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,aspireoutdoorleisure",915,337527193,vatword,,,,12319597,,12319597,ASPIRE OUTDOOR LEISURE LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,aspirepartnership",915,280311437,vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,therapeutic-cloning",12977,859110032,vatword,,,,05335999,,05335999,FREEOLA LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,cmhdcservices",2800,876402117,vatword,,,,05643774,,05643774,CMH DESIGN & CONSULTANCY SERVICES LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,cmhfiredoors",2800,504234237,jsonld+vatword,,,,15732000,,15732000,CMH FIRE DOORS LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,cmlawrec",2800,491089076,gbprefix+vatword,,,,16365789,,16365789,CM LAW RECRUITMENT LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,cmldistribution",2800,463278922,gbprefix+vatword,,,,02147219,,02147219,CENTRAL MODELS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,cmmcdonald",2800,430072793,vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,cmpayroll",2800,483281281,gbprefix+vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,driverhiretraining",3829,814264249,jsonld,,,,04698770,,04698770,DH PEOPLE PLUS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,valueroofingsupplies",13793,334592786,gbprefix,web-form,True,ALLTYPE ROOFING SUPPLIES (GR OUP) LIMITE D,,none,12173820,ALLTYPE ROOFING SUPPLIES (GROUP) LIMITED,B,NORMALISED,False,HMRC name = a unique register name
+"uk,co,artbookspublishing",838,106112570,gbprefix+vatword,,,,07361837,,07361837,ART BOOKS PUBLISHING LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,jenningsandbarrett",6730,979498134,gbprefix+vatword,,,,02742590,,02742590,JENNINGS & BARRETT LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,jenningslaw",6730,873447593,gbprefix+vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,edcan",4019,277579049,gbprefix,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,edclord",4019,225094576,vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,eddiesdoggydaycare",4019,272736290,vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,goldfinchexecutive",5348,483156577,gbprefix+jsonld,,,,14611289,,14611289,GOLDFINCH EXECUTIVES LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,goldiesdorchester",5348,100019352,gbprefix+vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,goldilocks-cottage",5348,909107924,vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,vanfinancecompany",13800,125650331,vatword,,,,07811287,,07811287,VANSCO LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,vanfitsolutions",13800,391718668,vatword,,,,13588365,,13588365,CASTELLO INTERIORS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,deltatechnology",3520,494027676,gbprefix+vatword,,,,16468699,,16468699,DELTA TECHNOLOGY SERVICES LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,artificialdecor",848,163633608,vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,harringtonandbyrne",5725,235456014,vatword,,,,09027723,,09027723,HARRINGTON & BYRNE LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,harringtonbrothersltd",5725,140363741,vatword,,,,08077475,,08077475,HARRINGTON BROTHERS CONTRACTORS LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,harringtonfamilylaw",5725,367612480,vatword,,,,11651440,,11651440,HARRINGTON LAW LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,harringtonstamps",5725,235456014,vatword,,,,09027723,,09027723,HARRINGTON & BYRNE LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,harris-screenprint",5725,879174961,vatword,,,,07718117,,07718117,HARRIS SCREEN PRINT LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,stockshop",12085,911319357,gbprefix+vatword,,,,01784804,,01784804,STOCKSHOP COUNTRY LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,stockslanenurseries",12085,786786842,gbprefix+vatword,,,,04353833,,04353833,STOCKS LANE NURSERIES LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,stocksolution",12085,900817449,vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,ofca",9173,271213535,vatword,,,,10675973,,10675973,CRAFTED ARCHITECTURE LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,york-it-services",14645,100195761,vatword,,,,07401376,,07401376,YORK IT SERVICES (UK) LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,yorkandyoung",14645,618770616,vatword,,,,04036491,,04036491,YORK AND YOUNG LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,djpowertoolrepairsltd",3700,233236240,vatword,,,,09937480,,09937480,D & J POWER TOOL REPAIRS LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,danilolucchi",3384,498529523,gbprefix+jsonld+vatword,,,,SC857454,,SC857454,REFICIO SOS SCOTLAND LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,danlec",3384,711275366,vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,abr-engineering",195,754464513,vatword,,,,05716161,,05716161,A & B RICHARDSON ENGINEERING LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,studentmidwifestudygram",12184,370085215,gbprefix+vatword,,,,13174432,,13174432,STUDENT STUDYGRAM LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,the-landscape-centre",12582,726486018,vatword,,,,02790259,,02790259,LAWSONS (WHETSTONE) LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,liverpoolcarsales",7563,453863666,vatword,,,,15235725,,15235725,RYDERS AUTOMOTIVE LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,traffordpalazzo",13375,864480991,vatword,,,,05433918,,05433918,TRAFFORD PALAZZO LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,seetec",11219,481109307,gbprefix+vatword,,,,02291188,,02291188,SEETEC BUSINESS TECHNOLOGY CENTRE LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,seetec,jobs",11219,507510475,gbprefix+vatword,,,,02291188,,02291188,SEETEC BUSINESS TECHNOLOGY CENTRE LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,seethinkdo",11219,324809304,gbprefix+vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,sefab",11219,944151042,vatword,,,,06741494,,06741494,SOUTH EAST FABRICATORS LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,sefe-energy",11219,927405129,gbprefix+vatword,,,,03904624,,03904624,SEFE ENERGY LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,solomontheatre",11697,308441714,vatword,,,,11656461,,11656461,SOLOMON THEATRE COMPANY LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,solonsystems",11697,896485551,vatword,,,,05948233,,05948233,SOLON SYSTEMS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,zombieinfection",14741,312819417,vatword,,,,09036260,,09036260,ZOMBIE INFECTION LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,massonmills",8067,406593980,vatword,,,,13177444,,13177444,NEEDLES AND HAYSTACKS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,massonmills,wp",8067,406593980,vatword,,,,13177444,,13177444,NEEDLES AND HAYSTACKS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,rejuvskin",10548,514088306,vatword,,,,SC784175,,SC784175,REJUV SKIN CLINIC LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,rekruit-airside,applications",10548,156910109,vatword,,,,08164906,,08164906,REKRUIT LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,rekruit-rail",10548,156910109,vatword,,,,08164906,,08164906,REKRUIT LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,exhoclean",4410,267208788,vatword,,,,10074496,,10074496,S&E CLEANING SOLUTIONS LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,exicore",4410,846210934,vatword,,,,05174437,,05174437,EXICORE LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,dunardcentre",3879,267250792,vatword,,,,SC531695 SC046904,,SC531695,INTERNATIONAL MUSIC AND PERFORMING ARTS CHARITABLE TRUST SCOTLAND,?,,False,not verified: no answer from HMRC yet
+"uk,co,duncancaravans",3879,430913616,vatword,,,,SC749582,,SC749582,DUNCAN CARAVANS LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,southcoastsolarsolutions",11753,493350382,vatword,,,,16350795,,16350795,SOUTH COAST SOLAR SOLUTIONS LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,southcoastsystems",11753,800057971,vatword,,,,04933692,,04933692,SOUTH COAST SYSTEMS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,southcoastwinefestival",11753,498175437,vatword,,,,16040923,,16040923,SOUTHCOAST WINE FESTIVAL LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,southcrestvets",11753,294541439,vatword,,,,16852920,,16852920,SOUTHCREST VETERINARY CENTRE LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,southdownsbuilders",11753,799837927,vatword,,,,04540339,,04540339,SOUTHDOWNS BUILDERS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,art-deco-emporium",835,491044206,gbprefix+vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,floorstockonline",4757,930103577,jsonld+vatword,,,,06563066,,06563066,FLOORSTOCK LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,floorstoreonline",4757,411307940,gbprefix+vatword,vies-xi,True,JIMS CARPETS LTD,01220080,agree,01220080,JIMS CARPETS LIMITED,A,NORMALISED,True,page shows VRN+CRN and HMRC name = register name
+"uk,co,floorstoresomercotes",4757,856664580,vatword,,,,06179146,,06179146,THE FLOORSTORE (SOMERCOTES) LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,floortexeurope",4757,790890684,vatword,vies-xi,True,FLOORTEX EUROPE LTD,04338164,agree,04338164,FLOORTEX EUROPE LIMITED,A,NORMALISED,True,page shows VRN+CRN and HMRC name = register name
+"uk,co,sanofi",11036,246079843,gbprefix+vatword,vies-xi,True,AVENTIS PHARMA LIMITED,01535640,agree,01535640,AVENTIS PHARMA LIMITED,A,EXACT,True,page shows VRN+CRN and HMRC name = register name
+"uk,co,sanofivaccines",11036,246079843,gbprefix+vatword,vies-xi,True,AVENTIS PHARMA LIMITED,01535640,agree,01535640,AVENTIS PHARMA LIMITED,A,EXACT,True,page shows VRN+CRN and HMRC name = register name
+"uk,co,sansaw",11036,469545052,gbprefix+vatword,,,,15258930,,15258930,SANSAW PROPERTIES LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,sansburydouglas",11036,741910349,vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,sansomsspecialistcars",11036,411346241,vatword,,,,14042633,,14042633,SANSOMS SPECIALIST CARS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,speareconsulting",11819,486542457,gbprefix+vatword,,,,16103510,,16103510,SPEARE CONSULTING LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,spearelectrical",11819,115147346,vatword,,,,03768740,,03768740,SPEAR ELECTRICAL LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,spearhead-training",11819,335372560,vatword,,,,01559442,,01559442,SPEARHEAD TRAINING GROUP LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,codedp",2831,152864693,vatword,,,,08339535,,08339535,CODE DEVELOPMENT PLANNERS LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,bizzylizzys",1540,460580651,vatword,,,,04570753,,04570753,BIZZY LIZZYS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,bj-assoc",1540,641889405,vatword,,,,09079784,,09079784,BARRY JACKSON ASSOCIATES LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,bjdskiphire",1540,461919472,vatword,,,,15511652,,15511652,BJD SKIP HIRE LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,vrishkarblinds",14031,502999272,jsonld+vatword,,,,15981549,,15981549,VRISHKAR BLINDS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,vrooma",14031,487022288,vatword,,,,16255978,,16255978,VROOMA VEHICLES LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,theultimatefinish",13069,724795308,gbprefix+vatword,,,,03747689,,03747689,THREE60 LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,bangonbranding",1132,483276172,vatword,,,,14627758,,14627758,BANG ON BRANDING LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,bangorondeeraces",1132,159169237,gbprefix+vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,wildscapes",14382,907878967,vatword,,,,05911369,,05911369,WILDSCAPES COMMUNITY INTEREST COMPANY,?,,False,not verified: no answer from HMRC yet
+"uk,co,wildseven",14382,404120070,vatword,,,,11589829,,11589829,WILD SEVEN HOLDINGS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,wildshoreblackpool",14382,318448000,vatword,,,,SC616977 SC616980,,SC616977,WILD SHORE DELAMERE LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,wildshoredelamere",14382,325353125,vatword,,,,SC616977,,SC616977,WILD SHORE DELAMERE LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,wildshoredundee",14382,275320805,vatword,,,,SC558606,,SC558606,WILD SHORE DUNDEE LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,wildsmith-saddlery",14382,471099632,vatword,,,,05233336,,05233336,WILDSMITHS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,wildstags",14382,158277674,vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,fortiva",4875,459422277,vatword,,,,14869324,,14869324,FORTIVA LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,holbertonandco",6021,101263376,vatword,,,,07424892,,07424892,HOLBERTON AND CO LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,holborne-engineering",6021,900438850,vatword,,,,05386811,,05386811,HOLBORNE GROUP LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,holbrooktelecom",6021,164300442,vatword,,,,08543786,,08543786,HOLBROOK TELECOM LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,arkhomes",818,570406263,vatword,,,,04447384,,04447384,ARK HOMES BUILDERS & DEVELOPERS LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,arkleys",818,981972176,gbprefix+vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,arklineuk",818,598902579,vatword,,,,04878622,,04878622,WEST VIEW HOUSE (UK) LIMITED,?,,False,not verified: no answer from HMRC yet
+"uk,co,arko",818,938331023,vatword,,,,06939849,,06939849,OLIVER BLOCK MANAGEMENT LTD,?,,False,not verified: no answer from HMRC yet
+"uk,co,arkstudios",818,856159692,gbprefix+vatword,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,hyphendigital",6256,499271732,jsonld,,,,,,,,?,,False,not verified: no answer from HMRC yet
+"uk,co,hyphose",6256,323582075,vatword,,,,01472439,,01472439,HYPHOSE LIMITED,?,,False,not verified: no answer from HMRC yet

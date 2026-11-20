@@ -1,0 +1,177 @@
+{"type": "frame", "crawl": "CC-MAIN-2026-43", "prefix": "uk,co,", "population_blocks": 14753, "note": "pilot harvest of 2026-11-14 (browser prototype); only hosts with a VAT candidate are listed, block totals are in block_done"}
+{"type": "host", "block": 4077, "host": "uk,co,ekotec", "pages": 1, "vat": {"817824609": ["gbprefix"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 4077, "host": "uk,co,ela8", "pages": 1, "vat": {"904158931": ["vatword"]}, "crn": {"06060813": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 7810, "host": "uk,co,lusona", "pages": 1, "vat": {"125474027": ["gbprefix"]}, "crn": {"SC419051": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 7810, "host": "uk,co,lussocampers", "pages": 1, "vat": {"420619718": ["vatword"]}, "crn": {"14099533": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 7810, "host": "uk,co,lusthottubs", "pages": 1, "vat": {"473877048": ["vatword"]}, "crn": {"15349526": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 872, "host": "uk,co,asadofirekitchen", "pages": 1, "vat": {"466399734": ["vatword"]}, "crn": {"15596777": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 872, "host": "uk,co,asalandscapearchitects", "pages": 1, "vat": {"630863934": ["vatword"]}, "crn": {"07283585": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 934, "host": "uk,co,astylingstory", "pages": 1, "vat": {"393937347": ["vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 934, "host": "uk,co,asylumchapel", "pages": 1, "vat": {"186989914": ["gbprefix", "vatword"]}, "crn": {"08838902": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 642, "host": "uk,co,an-ex", "pages": 1, "vat": {"542636642": ["gbprefix", "vatword"]}, "crn": {"02308677": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 642, "host": "uk,co,an0", "pages": 1, "vat": {"212125174": ["gbprefix", "vatword"]}, "crn": {"09550571": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 915, "host": "uk,co,aspireoutdoorleisure", "pages": 1, "vat": {"337527193": ["vatword"]}, "crn": {"12319597": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 915, "host": "uk,co,aspirepartnership", "pages": 1, "vat": {"280311437": ["vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 12977, "host": "uk,co,therapeutic-cloning", "pages": 1, "vat": {"859110032": ["vatword"]}, "crn": {"05335999": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 2800, "host": "uk,co,cmhdcservices", "pages": 1, "vat": {"876402117": ["vatword"]}, "crn": {"05643774": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 2800, "host": "uk,co,cmhfiredoors", "pages": 1, "vat": {"504234237": ["jsonld", "vatword"]}, "crn": {"15732000": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 2800, "host": "uk,co,cmlawrec", "pages": 1, "vat": {"491089076": ["gbprefix", "vatword"]}, "crn": {"16365789": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 2800, "host": "uk,co,cmldistribution", "pages": 1, "vat": {"463278922": ["gbprefix", "vatword"]}, "crn": {"02147219": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 2800, "host": "uk,co,cmmcdonald", "pages": 1, "vat": {"430072793": ["vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 2800, "host": "uk,co,cmpayroll", "pages": 1, "vat": {"483281281": ["gbprefix", "vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 3829, "host": "uk,co,driverhiretraining", "pages": 1, "vat": {"814264249": ["jsonld"]}, "crn": {"04698770": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 13793, "host": "uk,co,valueroofingsupplies", "pages": 1, "vat": {"334592786": ["gbprefix"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 838, "host": "uk,co,artbookspublishing", "pages": 1, "vat": {"106112570": ["gbprefix", "vatword"]}, "crn": {"07361837": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 6730, "host": "uk,co,jenningsandbarrett", "pages": 1, "vat": {"979498134": ["gbprefix", "vatword"]}, "crn": {"02742590": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 6730, "host": "uk,co,jenningslaw", "pages": 1, "vat": {"873447593": ["gbprefix", "vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 4019, "host": "uk,co,edcan", "pages": 1, "vat": {"277579049": ["gbprefix"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 4019, "host": "uk,co,edclord", "pages": 1, "vat": {"225094576": ["vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 4019, "host": "uk,co,eddiesdoggydaycare", "pages": 1, "vat": {"272736290": ["vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 5348, "host": "uk,co,goldfinchexecutive", "pages": 1, "vat": {"483156577": ["gbprefix", "jsonld"]}, "crn": {"14611289": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 5348, "host": "uk,co,goldiesdorchester", "pages": 1, "vat": {"100019352": ["gbprefix", "vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 5348, "host": "uk,co,goldilocks-cottage", "pages": 1, "vat": {"909107924": ["vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 13800, "host": "uk,co,vanfinancecompany", "pages": 1, "vat": {"125650331": ["vatword"]}, "crn": {"07811287": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 13800, "host": "uk,co,vanfitsolutions", "pages": 1, "vat": {"391718668": ["vatword"]}, "crn": {"13588365": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 3520, "host": "uk,co,deltatechnology", "pages": 1, "vat": {"494027676": ["gbprefix", "vatword"]}, "crn": {"16468699": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 848, "host": "uk,co,artificialdecor", "pages": 1, "vat": {"163633608": ["vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 5725, "host": "uk,co,harringtonandbyrne", "pages": 1, "vat": {"235456014": ["vatword"]}, "crn": {"09027723": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 5725, "host": "uk,co,harringtonbrothersltd", "pages": 1, "vat": {"140363741": ["vatword"]}, "crn": {"08077475": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 5725, "host": "uk,co,harringtonfamilylaw", "pages": 1, "vat": {"367612480": ["vatword"]}, "crn": {"11651440": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 5725, "host": "uk,co,harringtonstamps", "pages": 1, "vat": {"235456014": ["vatword"]}, "crn": {"09027723": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 5725, "host": "uk,co,harris-screenprint", "pages": 1, "vat": {"879174961": ["vatword"]}, "crn": {"07718117": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 12085, "host": "uk,co,stockshop", "pages": 1, "vat": {"911319357": ["gbprefix", "vatword"]}, "crn": {"01784804": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 12085, "host": "uk,co,stockslanenurseries", "pages": 1, "vat": {"786786842": ["gbprefix", "vatword"]}, "crn": {"04353833": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 12085, "host": "uk,co,stocksolution", "pages": 1, "vat": {"900817449": ["vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 9173, "host": "uk,co,ofca", "pages": 1, "vat": {"271213535": ["vatword"]}, "crn": {"10675973": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 14645, "host": "uk,co,york-it-services", "pages": 1, "vat": {"100195761": ["vatword"]}, "crn": {"07401376": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 14645, "host": "uk,co,yorkandyoung", "pages": 1, "vat": {"618770616": ["vatword"]}, "crn": {"04036491": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 3700, "host": "uk,co,djpowertoolrepairsltd", "pages": 1, "vat": {"233236240": ["vatword"]}, "crn": {"09937480": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 3384, "host": "uk,co,danilolucchi", "pages": 1, "vat": {"498529523": ["gbprefix", "jsonld", "vatword"]}, "crn": {"SC857454": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 3384, "host": "uk,co,danlec", "pages": 1, "vat": {"711275366": ["vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 195, "host": "uk,co,abr-engineering", "pages": 1, "vat": {"754464513": ["vatword"]}, "crn": {"05716161": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 12184, "host": "uk,co,studentmidwifestudygram", "pages": 1, "vat": {"370085215": ["gbprefix", "vatword"]}, "crn": {"13174432": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 12582, "host": "uk,co,the-landscape-centre", "pages": 1, "vat": {"726486018": ["vatword"]}, "crn": {"02790259": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 7563, "host": "uk,co,liverpoolcarsales", "pages": 1, "vat": {"453863666": ["vatword"]}, "crn": {"15235725": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 13375, "host": "uk,co,traffordpalazzo", "pages": 1, "vat": {"864480991": ["vatword"]}, "crn": {"05433918": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11219, "host": "uk,co,seetec", "pages": 1, "vat": {"481109307": ["gbprefix", "vatword"]}, "crn": {"02291188": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11219, "host": "uk,co,seetec,jobs", "pages": 1, "vat": {"507510475": ["gbprefix", "vatword"]}, "crn": {"02291188": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11219, "host": "uk,co,seethinkdo", "pages": 1, "vat": {"324809304": ["gbprefix", "vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 11219, "host": "uk,co,sefab", "pages": 1, "vat": {"944151042": ["vatword"]}, "crn": {"06741494": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11219, "host": "uk,co,sefe-energy", "pages": 1, "vat": {"927405129": ["gbprefix", "vatword"]}, "crn": {"03904624": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11697, "host": "uk,co,solomontheatre", "pages": 1, "vat": {"308441714": ["vatword"]}, "crn": {"11656461": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11697, "host": "uk,co,solonsystems", "pages": 1, "vat": {"896485551": ["vatword"]}, "crn": {"05948233": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 14741, "host": "uk,co,zombieinfection", "pages": 1, "vat": {"312819417": ["vatword"]}, "crn": {"09036260": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 8067, "host": "uk,co,massonmills", "pages": 1, "vat": {"406593980": ["vatword"]}, "crn": {"13177444": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 8067, "host": "uk,co,massonmills,wp", "pages": 1, "vat": {"406593980": ["vatword"]}, "crn": {"13177444": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 10548, "host": "uk,co,rejuvskin", "pages": 1, "vat": {"514088306": ["vatword"]}, "crn": {"SC784175": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 10548, "host": "uk,co,rekruit-airside,applications", "pages": 1, "vat": {"156910109": ["vatword"]}, "crn": {"08164906": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 10548, "host": "uk,co,rekruit-rail", "pages": 1, "vat": {"156910109": ["vatword"]}, "crn": {"08164906": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 4410, "host": "uk,co,exhoclean", "pages": 1, "vat": {"267208788": ["vatword"]}, "crn": {"10074496": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 4410, "host": "uk,co,exicore", "pages": 1, "vat": {"846210934": ["vatword"]}, "crn": {"05174437": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 3879, "host": "uk,co,dunardcentre", "pages": 1, "vat": {"267250792": ["vatword"]}, "crn": {"SC531695": 1, "SC046904": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 3879, "host": "uk,co,duncancaravans", "pages": 1, "vat": {"430913616": ["vatword"]}, "crn": {"SC749582": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11753, "host": "uk,co,southcoastsolarsolutions", "pages": 1, "vat": {"493350382": ["vatword"]}, "crn": {"16350795": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11753, "host": "uk,co,southcoastsystems", "pages": 1, "vat": {"800057971": ["vatword"]}, "crn": {"04933692": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11753, "host": "uk,co,southcoastwinefestival", "pages": 1, "vat": {"498175437": ["vatword"]}, "crn": {"16040923": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11753, "host": "uk,co,southcrestvets", "pages": 1, "vat": {"294541439": ["vatword"]}, "crn": {"16852920": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11753, "host": "uk,co,southdownsbuilders", "pages": 1, "vat": {"799837927": ["vatword"]}, "crn": {"04540339": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 835, "host": "uk,co,art-deco-emporium", "pages": 1, "vat": {"491044206": ["gbprefix", "vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 4757, "host": "uk,co,floorstockonline", "pages": 1, "vat": {"930103577": ["jsonld", "vatword"]}, "crn": {"06563066": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 4757, "host": "uk,co,floorstoreonline", "pages": 1, "vat": {"411307940": ["gbprefix", "vatword"]}, "crn": {"01220080": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 4757, "host": "uk,co,floorstoresomercotes", "pages": 1, "vat": {"856664580": ["vatword"]}, "crn": {"06179146": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 4757, "host": "uk,co,floortexeurope", "pages": 1, "vat": {"790890684": ["vatword"]}, "crn": {"04338164": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11036, "host": "uk,co,sanofi", "pages": 1, "vat": {"246079843": ["gbprefix", "vatword"]}, "crn": {"01535640": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11036, "host": "uk,co,sanofivaccines", "pages": 1, "vat": {"246079843": ["gbprefix", "vatword"]}, "crn": {"01535640": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11036, "host": "uk,co,sansaw", "pages": 1, "vat": {"469545052": ["gbprefix", "vatword"]}, "crn": {"15258930": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11036, "host": "uk,co,sansburydouglas", "pages": 1, "vat": {"741910349": ["vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 11036, "host": "uk,co,sansomsspecialistcars", "pages": 1, "vat": {"411346241": ["vatword"]}, "crn": {"14042633": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11819, "host": "uk,co,speareconsulting", "pages": 1, "vat": {"486542457": ["gbprefix", "vatword"]}, "crn": {"16103510": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11819, "host": "uk,co,spearelectrical", "pages": 1, "vat": {"115147346": ["vatword"]}, "crn": {"03768740": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 11819, "host": "uk,co,spearhead-training", "pages": 1, "vat": {"335372560": ["vatword"]}, "crn": {"01559442": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 2831, "host": "uk,co,codedp", "pages": 1, "vat": {"152864693": ["vatword"]}, "crn": {"08339535": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 1540, "host": "uk,co,bizzylizzys", "pages": 1, "vat": {"460580651": ["vatword"]}, "crn": {"04570753": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 1540, "host": "uk,co,bj-assoc", "pages": 1, "vat": {"641889405": ["vatword"]}, "crn": {"09079784": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 1540, "host": "uk,co,bjdskiphire", "pages": 1, "vat": {"461919472": ["vatword"]}, "crn": {"15511652": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 14031, "host": "uk,co,vrishkarblinds", "pages": 1, "vat": {"502999272": ["jsonld", "vatword"]}, "crn": {"15981549": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 14031, "host": "uk,co,vrooma", "pages": 1, "vat": {"487022288": ["vatword"]}, "crn": {"16255978": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 13069, "host": "uk,co,theultimatefinish", "pages": 1, "vat": {"724795308": ["gbprefix", "vatword"]}, "crn": {"03747689": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 1132, "host": "uk,co,bangonbranding", "pages": 1, "vat": {"483276172": ["vatword"]}, "crn": {"14627758": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 1132, "host": "uk,co,bangorondeeraces", "pages": 1, "vat": {"159169237": ["gbprefix", "vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 14382, "host": "uk,co,wildscapes", "pages": 1, "vat": {"907878967": ["vatword"]}, "crn": {"05911369": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 14382, "host": "uk,co,wildseven", "pages": 1, "vat": {"404120070": ["vatword"]}, "crn": {"11589829": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 14382, "host": "uk,co,wildshoreblackpool", "pages": 1, "vat": {"318448000": ["vatword"]}, "crn": {"SC616977": 1, "SC616980": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 14382, "host": "uk,co,wildshoredelamere", "pages": 1, "vat": {"325353125": ["vatword"]}, "crn": {"SC616977": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 14382, "host": "uk,co,wildshoredundee", "pages": 1, "vat": {"275320805": ["vatword"]}, "crn": {"SC558606": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 14382, "host": "uk,co,wildsmith-saddlery", "pages": 1, "vat": {"471099632": ["vatword"]}, "crn": {"05233336": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 14382, "host": "uk,co,wildstags", "pages": 1, "vat": {"158277674": ["vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 4875, "host": "uk,co,fortiva", "pages": 1, "vat": {"459422277": ["vatword"]}, "crn": {"14869324": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 6021, "host": "uk,co,holbertonandco", "pages": 1, "vat": {"101263376": ["vatword"]}, "crn": {"07424892": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 6021, "host": "uk,co,holborne-engineering", "pages": 1, "vat": {"900438850": ["vatword"]}, "crn": {"05386811": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 6021, "host": "uk,co,holbrooktelecom", "pages": 1, "vat": {"164300442": ["vatword"]}, "crn": {"08543786": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 818, "host": "uk,co,arkhomes", "pages": 1, "vat": {"570406263": ["vatword"]}, "crn": {"04447384": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 818, "host": "uk,co,arkleys", "pages": 1, "vat": {"981972176": ["gbprefix", "vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 818, "host": "uk,co,arklineuk", "pages": 1, "vat": {"598902579": ["vatword"]}, "crn": {"04878622": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 818, "host": "uk,co,arko", "pages": 1, "vat": {"938331023": ["vatword"]}, "crn": {"06939849": 1}, "negative": false, "title": ""}
+{"type": "host", "block": 818, "host": "uk,co,arkstudios", "pages": 1, "vat": {"856159692": ["gbprefix", "vatword"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 6256, "host": "uk,co,hyphendigital", "pages": 1, "vat": {"499271732": ["jsonld"]}, "crn": {}, "negative": false, "title": ""}
+{"type": "host", "block": 6256, "host": "uk,co,hyphose", "pages": 1, "vat": {"323582075": ["vatword"]}, "crn": {"01472439": 1}, "negative": false, "title": ""}
+{"type": "block_done", "block": 14750, "hosts": 104, "with_pages": 76}
+{"type": "block_done", "block": 4077, "hosts": 99, "with_pages": 78}
+{"type": "block_done", "block": 7810, "hosts": 77, "with_pages": 66}
+{"type": "block_done", "block": 872, "hosts": 36, "with_pages": 25}
+{"type": "block_done", "block": 934, "hosts": 117, "with_pages": 81}
+{"type": "block_done", "block": 10982, "hosts": 70, "with_pages": 47}
+{"type": "block_done", "block": 642, "hosts": 86, "with_pages": 61}
+{"type": "block_done", "block": 915, "hosts": 80, "with_pages": 66}
+{"type": "block_done", "block": 12977, "hosts": 145, "with_pages": 128}
+{"type": "block_done", "block": 2800, "hosts": 154, "with_pages": 112}
+{"type": "block_done", "block": 3829, "hosts": 23, "with_pages": 21}
+{"type": "block_done", "block": 12586, "hosts": 63, "with_pages": 47}
+{"type": "block_done", "block": 13793, "hosts": 61, "with_pages": 42}
+{"type": "block_done", "block": 838, "hosts": 155, "with_pages": 126}
+{"type": "block_done", "block": 6730, "hosts": 114, "with_pages": 85}
+{"type": "block_done", "block": 4019, "hosts": 117, "with_pages": 88}
+{"type": "block_done", "block": 5348, "hosts": 98, "with_pages": 70}
+{"type": "block_done", "block": 10220, "hosts": 29, "with_pages": 21}
+{"type": "block_done", "block": 10324, "hosts": 49, "with_pages": 37}
+{"type": "block_done", "block": 13800, "hosts": 72, "with_pages": 54}
+{"type": "block_done", "block": 3520, "hosts": 73, "with_pages": 56}
+{"type": "block_done", "block": 848, "hosts": 47, "with_pages": 37}
+{"type": "block_done", "block": 5725, "hosts": 86, "with_pages": 69}
+{"type": "block_done", "block": 9291, "hosts": 82, "with_pages": 52}
+{"type": "block_done", "block": 6256, "hosts": 132, "with_pages": 108}
+{"type": "block_done", "block": 12085, "hosts": 123, "with_pages": 95}
+{"type": "block_done", "block": 9974, "hosts": 2, "with_pages": 2}
+{"type": "block_done", "block": 9173, "hosts": 53, "with_pages": 41}
+{"type": "block_done", "block": 14645, "hosts": 78, "with_pages": 58}
+{"type": "block_done", "block": 3700, "hosts": 109, "with_pages": 84}
+{"type": "block_done", "block": 8685, "hosts": 16, "with_pages": 12}
+{"type": "block_done", "block": 3384, "hosts": 114, "with_pages": 88}
+{"type": "block_done", "block": 195, "hosts": 42, "with_pages": 29}
+{"type": "block_done", "block": 12184, "hosts": 46, "with_pages": 33}
+{"type": "block_done", "block": 12582, "hosts": 105, "with_pages": 82}
+{"type": "block_done", "block": 7563, "hosts": 26, "with_pages": 18}
+{"type": "block_done", "block": 13375, "hosts": 42, "with_pages": 31}
+{"type": "block_done", "block": 11219, "hosts": 95, "with_pages": 76}
+{"type": "block_done", "block": 11697, "hosts": 90, "with_pages": 78}
+{"type": "block_done", "block": 14741, "hosts": 115, "with_pages": 81}
+{"type": "block_done", "block": 8067, "hosts": 17, "with_pages": 13}
+{"type": "block_done", "block": 10548, "hosts": 168, "with_pages": 129}
+{"type": "block_done", "block": 4410, "hosts": 36, "with_pages": 30}
+{"type": "block_done", "block": 3879, "hosts": 104, "with_pages": 78}
+{"type": "block_done", "block": 11753, "hosts": 164, "with_pages": 127}
+{"type": "block_done", "block": 835, "hosts": 61, "with_pages": 49}
+{"type": "block_done", "block": 4757, "hosts": 37, "with_pages": 29}
+{"type": "block_done", "block": 7556, "hosts": 57, "with_pages": 46}
+{"type": "block_done", "block": 11036, "hosts": 115, "with_pages": 88}
+{"type": "block_done", "block": 11819, "hosts": 48, "with_pages": 32}
+{"type": "block_done", "block": 2831, "hosts": 11, "with_pages": 9}
+{"type": "block_done", "block": 11149, "hosts": 57, "with_pages": 50}
+{"type": "block_done", "block": 1540, "hosts": 143, "with_pages": 110}
+{"type": "block_done", "block": 14031, "hosts": 125, "with_pages": 83}
+{"type": "block_done", "block": 13069, "hosts": 73, "with_pages": 50}
+{"type": "block_done", "block": 1132, "hosts": 73, "with_pages": 55}
+{"type": "block_done", "block": 14382, "hosts": 147, "with_pages": 102}
+{"type": "block_done", "block": 4875, "hosts": 23, "with_pages": 18}
+{"type": "block_done", "block": 6021, "hosts": 128, "with_pages": 93}
+{"type": "block_done", "block": 818, "hosts": 176, "with_pages": 134}

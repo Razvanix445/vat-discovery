@@ -1,0 +1,42 @@
+{
+  "crawl": "CC-MAIN-2026-43",
+  "blocks_sampled": 60,
+  "blocks_population": 14753,
+  "hosts_sampled": 4988,
+  "hosts_with_pages": 3786,
+  "hosts_with_candidate": 116,
+  "distinct_candidates": 112,
+  "hmrc_live": 8,
+  "hmrc_not_found": 0,
+  "hmrc_no_answer": 104,
+  "note": "pairs with hmrc_valid = None were NOT verified and are not counted anywhere below",
+  "tiers": {
+    "B": 2,
+    "A": 7,
+    "?": 107
+  },
+  "distinct_companies_A_B": 8,
+  "two_witness_pairs": 7,
+  "two_witness_disagreements": 0,
+  "disagreement_rate_wilson95": [
+    0.0,
+    0.35433884297520657
+  ],
+  "extrapolated_host_pairs_tier_A": [
+    1721.1833333333334,
+    28.277060795561738,
+    3414.089605871105
+  ],
+  "extrapolated_host_pairs_tier_A_B": [
+    2212.95,
+    294.25023752679454,
+    4131.649762473206
+  ],
+  "verified_by": {
+    "web-form": 5,
+    "vies-xi": 3
+  },
+  "verifier": "replay",
+  "hmrc_calls": 0,
+  "hmrc_429": 0
+}
